@@ -36,7 +36,7 @@ int main() {
 
 	// Print array
 	for (int i = 0; i < sortedVect.size(); i++) {
-			cout << sortedVect[i];
+			cout << sortedVect[i] << " ";
 		}
 	return 0;
 }
