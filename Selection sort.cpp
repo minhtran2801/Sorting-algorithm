@@ -8,6 +8,7 @@ int main() {
 	int index, temp, min;
 
 	for (int i = 0; i < test_data.size() - 1; i++) {
+		// Initiate min and min index to current test_data[i]
 		min = test_data[i];
 		index = i;
 		// find min
