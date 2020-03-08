@@ -4,3 +4,4 @@ All algorithms sort in ascending order
 2. Bubble sort
 3. Selection sort
 4. Insertion sort
+5. Merge sort
